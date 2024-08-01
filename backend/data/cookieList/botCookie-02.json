@@ -1,0 +1,27 @@
+{
+  "codeforces.com": {
+    "/": {
+      "JSESSIONID": {
+        "key": "JSESSIONID",
+        "value": "8170DA773FA7E5160ECFD69FFC0B822C",
+        "domain": "codeforces.com",
+        "path": "/",
+        "httpOnly": true,
+        "hostOnly": true,
+        "creation": "2024-07-04T06:14:19.962Z",
+        "lastAccessed": "2024-07-05T06:21:19.396Z"
+      },
+      "39ce7": {
+        "key": "39ce7",
+        "value": "CF6Lndz7",
+        "expires": "2024-07-16T20:07:59.000Z",
+        "maxAge": 1000000,
+        "domain": "codeforces.com",
+        "path": "/",
+        "hostOnly": true,
+        "creation": "2024-07-04T06:14:19.966Z",
+        "lastAccessed": "2024-07-05T06:21:19.958Z"
+      }
+    }
+  }
+}

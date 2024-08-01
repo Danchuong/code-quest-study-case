@@ -1,0 +1,49 @@
+{
+  "codeforces.com": {
+    "/": {
+      "JSESSIONID": {
+        "key": "JSESSIONID",
+        "value": "73B357F782455B3722AB85E37C7C4666",
+        "domain": "codeforces.com",
+        "path": "/",
+        "httpOnly": true,
+        "hostOnly": true,
+        "creation": "2024-07-04T06:14:12.953Z",
+        "lastAccessed": "2024-07-04T09:10:29.434Z"
+      },
+      "39ce7": {
+        "key": "39ce7",
+        "value": "CF8DBL4N",
+        "expires": "2024-07-15T22:57:09.000Z",
+        "maxAge": 1000000,
+        "domain": "codeforces.com",
+        "path": "/",
+        "hostOnly": true,
+        "creation": "2024-07-04T06:14:12.956Z",
+        "lastAccessed": "2024-07-04T09:10:29.437Z"
+      },
+      "X-User-Sha1": {
+        "key": "X-User-Sha1",
+        "value": "c3cb8ebd843a264f7cdf7b71334599e9fc42392f",
+        "expires": "2025-07-04T09:10:29.000Z",
+        "maxAge": 31536000,
+        "domain": "codeforces.com",
+        "path": "/",
+        "hostOnly": true,
+        "creation": "2024-07-04T06:14:15.656Z",
+        "lastAccessed": "2024-07-04T09:10:29.439Z"
+      },
+      "X-User": {
+        "key": "X-User",
+        "value": "2896a5fe1aeb9e721c09458f7511cfff51221d7a783f70237f8513806dff698a9361ed39074e4ea9",
+        "expires": "2024-08-03T06:14:15.000Z",
+        "maxAge": 2592000,
+        "domain": "codeforces.com",
+        "path": "/",
+        "hostOnly": true,
+        "creation": "2024-07-04T06:14:15.659Z",
+        "lastAccessed": "2024-07-04T09:10:28.956Z"
+      }
+    }
+  }
+}
